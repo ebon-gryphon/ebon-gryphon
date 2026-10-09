@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="350" viewBox="0 0 1000 350" role="img" aria-labelledby="title"><title id="title">郭雨江，一名 AI 产品经理。让想法，有机会成为产品。</title>
-<defs><radialGradient id="bg"><stop stop-color="#11251a"/><stop offset="1" stop-color="#080e0b"/></radialGradient></defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="116" height="58" viewBox="62 244 116 58" role="img"><title id="title">个人网站</title>
+<defs><radialGradient id="bg"><stop stop-color="#11251a" /><stop offset="1" stop-color="#080e0b" /></radialGradient></defs>
 <style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;fill:#e0e8e1}.muted{fill:#a7b4aa}.dim{fill:#718577}.mono{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}.enter{animation:enter .3s ease-out both}.right{animation-delay:.35s}.name{animation-delay:.12s}.role{animation-delay:.22s}@keyframes enter{from{opacity:0;transform:translateY(5px)}to{opacity:1;transform:translateY(0)}}@media(prefers-reduced-motion:reduce){.enter{animation:none}}</style>
-<rect width="1000" height="350" fill="#080e0b"/><ellipse cx="420" cy="160" rx="430" ry="175" fill="url(#bg)" opacity=".55"/>
+<rect width="1000" height="350" fill="#080e0b" /><ellipse cx="420" cy="160" rx="430" ry="175" fill="url(#bg)" opacity=".55" />
 <text x="68" y="49" font-size="12" letter-spacing="2" class="mono dim">EBON-GRYPHON / PERSONAL SPACE</text>
 <g class="enter"><text x="68" y="107" font-size="21" class="muted">嘿！你好，我是</text></g>
 <g class="enter name"><text x="65" y="180" font-size="62" font-weight="600" letter-spacing="5">郭雨江</text></g>
-<g class="enter role"><text x="68" y="222" font-size="22" class="muted">一名 AI 产品经理</text><rect x="63" y="250" width="114" height="43" rx="21.5" fill="#17281e" stroke="#91ad96" stroke-opacity=".65"/><text x="120" y="278" text-anchor="middle" font-size="17">个人网站 ↗</text></g>
-<path d="M449 92V284" stroke="#718577" opacity=".2"/>
+<g class="enter role"><text x="68" y="222" font-size="22" class="muted">一名 AI 产品经理</text><rect x="63" y="250" width="114" height="43" rx="21.5" fill="#17281e" stroke="#91ad96" stroke-opacity=".65" /><text x="120" y="278" text-anchor="middle" font-size="17">个人网站 ↗</text></g>
+<path d="M449 92V284" stroke="#718577" opacity=".2" />
 <g class="enter right">
 <text x="493" y="108" font-size="12" letter-spacing="2" class="mono dim">ABOUT ME</text>
 <text x="493" y="154" font-size="29" font-weight="500">让想法，有机会成为产品。</text>
@@ -14,5 +14,5 @@
 <text x="493" y="227" font-size="19" class="muted">和有趣的小产品。</text>
 <text x="493" y="270" font-size="17" class="dim">AI 工具 · 产品拆解 · 兴趣实验</text>
 </g>
-<path d="M68 329H932" stroke="#819b88" opacity=".16"/>
+<path d="M68 329H932" stroke="#819b88" opacity=".16" />
 </svg>
